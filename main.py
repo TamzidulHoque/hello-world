@@ -1,4 +1,5 @@
 print("Tahmid 1")
 
-print("Takrim")
+print("Tak -- rim") 
+print("saadman sayeed is father")
 print("saadman sayeed is father")
